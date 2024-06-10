@@ -34,6 +34,10 @@ export const Resume = () => {
             </div>
 
 
+            <div className="flex justify-between items-center px-6 my-12">
+            <h1 className="text-lg font-semibold">Acesso Rápido</h1>
+            <p className="text-[#fc6625] text-sm">ver mais</p>
+            </div>
         </div>
 
     </div>

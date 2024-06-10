@@ -8,7 +8,7 @@ const Header = () => {
     <>
     <header className="w-full h-[101px]">
         <div className="w-full h-full flex justify-between lg:mx-auto px-6 max-w-[1240px] items-center">
-            <Image src={logo} width={75} alt=""/>
+            <Image src={logo} width={85} alt=""/>
             <div className="w-10 h-10 border border-zinc-300 shadow-md flex justify-center items-center rounded-xl">
                 <CiSettings size={20}/>
             </div>

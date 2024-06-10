@@ -8,7 +8,7 @@ const Services = () => {
   return (
     <>
     <div className="w-full h-[80px] my-6">
-        <div className="w-[90%] rounded-2xl h-full flex justify-center items-center mx-auto bg-[#Fc6625]">
+        <div className="w-[90%] max-w[1240px] rounded-2xl h-full flex justify-center items-center mx-auto bg-[#Fc6625]">
             <div className="flex justify-center gap-12 items-center">
                 <div className="flex flex-col items-center text-zinc-50">
                 <TbReportAnalytics size={25} />
